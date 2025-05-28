@@ -33,7 +33,7 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/co1omkooo/weather-app.git
+git clone https://github.com/co1omkooo/weather_app.git
 cd weather-app
 ```
 
