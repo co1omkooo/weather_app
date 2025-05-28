@@ -34,7 +34,7 @@
 
 ```bash
 git clone https://github.com/co1omkooo/weather_app.git
-cd weather-app
+cd weather_app
 ```
 
 ### 2. Соберите и запустите контейнер
